@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kendra Chavez</h1>
 
-- 🔭 I’m currently working on **come back soon for video game project**
+- 🔭 I’m currently working on: **video game project**
 
-- 🌱 I’m currently learning **Unreal Engine**
+- 🌱 I’m currently learning: **Unreal Engine**
 
 
 <h3 align="left">Languages and Tools:</h3>
