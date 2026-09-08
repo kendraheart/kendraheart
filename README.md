@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kendra Chavez</h1>
+<h1 align="center">Hi there, I'm Kay</h1>
 
 - I’m currently working on: **new project here soon** **[link here soon]**
 
@@ -7,7 +7,7 @@
 
 <h2 align="left">Technical Skills:</h2>
 
-- Java, C, SQL, GitHub (beginner), Bash
+- Java, C, SQL, GitHub, Bash
 <p align="left">
 
 
